@@ -1,38 +1,38 @@
 #EXTM3U M3UPT - Lista de IPTV gratuita
 
 # TV
-#EXTINF:-1 group-title="TV" tvg-id="FIGHT SPORTS" tvg-logo="https://m3upt.com/logos/SIC.png",SIC
+#EXTINF:-1 group-title="TV" tvg-id="FIGHT SPORTS" tvg-logo="https://i.ibb.co/gm8Htk3/Fight-Sports.png",SIC
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Channel Fight" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
+#EXTINF:-1 group-title="TV" tvg-id="Channel Fight" tvg-logo="https://i.ibb.co/W0bN7gT/fight-channel.jpg",TVI
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
 
-#EXTINF:-1 group-title="TV" tvg-id="Fight Network" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="TV" tvg-id="Fight Network" tvg-logo="https://i.ibb.co/RbqrZJ6/Fightnetwork.jpg",SIC Notícias
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Fite" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
+#EXTINF:-1 group-title="TV" tvg-id="Fite" tvg-logo="https://i.ibb.co/HBqT0Hs/fite-tv4.jpg",TVI 24
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Fite" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
+#EXTINF:-1 group-title="TV" tvg-id="Fite" tvg-logo="https://i.ibb.co/bFndjcW/fite-tv3.jpg",TVI 24
 https://dvrfl02.tulix.tv/gusa-fite/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Glory Kickboxing" tvg-logo="https://m3upt.com/logos/ARTV.png",ARTV
+#EXTINF:-1 group-title="TV" tvg-id="Glory Kickboxing" tvg-logo="https://i.ibb.co/mv8bg9p/glory2.png",ARTV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Hard Knocks" tvg-logo="https://m3upt.com/logos/CNN-Brasil.png",CNN Brasil
+#EXTINF:-1 group-title="TV" tvg-id="Hard Knocks" tvg-logo="https://i.ibb.co/jrZz8fV/Hard-Knocks.png",CNN Brasil
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="IMPACT Wrestling" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/SIC_Internacional_2012.png",SIC Internacional
+#EXTINF:-1 group-title="TV" tvg-id="IMPACT Wrestling" tvg-logo="https://i.ibb.co/gZxGs40/impact.jpg",SIC Internacional
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MMA TV" tvg-logo="https://m3upt.com/logos/Porto-Canal.png",Porto Canal
+#EXTINF:-1 group-title="TV" tvg-id="MMA TV" tvg-logo="https://i.ibb.co/9rPCLJn/mmatv3.jpg",Porto Canal
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Ring of Honor Wrestling" tvg-logo="https://m3upt.com/logos/Telesur.png",TeleSUR
+#EXTINF:-1 group-title="TV" tvg-id="Ring of Honor Wrestling" tvg-logo="https://i.ibb.co/KzZGRv8/Ring-Wrestling.jpg",TeleSUR
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVS Boxing" tvg-logo="https://m3upt.com/logos/RT-America.png",RT America
+#EXTINF:-1 group-title="TV" tvg-id="TVS Boxing" tvg-logo="https://i.ibb.co/kBYk9n4/tvs-box.jpg",RT America
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NHK WORLD JAPAN HD" tvg-logo="https://m3upt.com/logos/NHK-World.png",NHK World
+#EXTINF:-1 group-title="TV" tvg-id="NHK WORLD JAPAN HD" tvg-logo="https://i.ibb.co/z7xLx6R/japao.jpg",NHK World
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
